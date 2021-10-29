@@ -4,3 +4,6 @@
 Here is the app link: https://node-weather-ap.herokuapp.com/
 
 It's my first app using external API's to extract some data from and use it in a real-world application.
+
+## Contact
+Created by [@Yocosi](https://www.linkedin.com/in/pierre-amari-866240205/) - feel free to contact me!
